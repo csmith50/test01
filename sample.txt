@@ -1,3 +1,7 @@
-Insert new complaining about this not working
+Hey, it works.
 no worries bro just take it easy 
+<<<<<<< HEAD
 THIS IS A LOT OF FUN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+=======
+hang on woah 
+>>>>>>> 1f5e38f5c71c94bc505fd4e0436c8f3cbb81fca0
